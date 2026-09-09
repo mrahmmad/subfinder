@@ -7,7 +7,7 @@ import (
 	"time"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/mrahmmad/subfinder/v2/pkg/subscraping"
 )
 
 type reconCloudResponse struct {

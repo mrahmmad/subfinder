@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/mrahmmad/subfinder/v2/pkg/subscraping"
 )
 
 // search results
